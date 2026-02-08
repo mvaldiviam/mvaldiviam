@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**mvaldiviam/mvaldiviam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello, welcome to my Repository. 
+I'm a Support Engineer with previous experience in the following areas: 
+- IAM Access Management
+- Data Analysis
+- Quality
 
-Here are some ideas to get you started:
+I have also worked in the following sectors: 
+- Manufacturing
+- Consultancy
+- Technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently looking for new opportunities in the Data field. 
+Thank you for tooking a time to look at my profile. 
+Best regards.
