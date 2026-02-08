@@ -11,6 +11,6 @@ I have also worked in the following sectors:
 - Consultancy
 - Technology
 
-Currently looking for new opportunities in the Data field. 
+Currently looking for new opportunities. 
 Thank you for taking a time to look at my profile. 
 Best regards.
