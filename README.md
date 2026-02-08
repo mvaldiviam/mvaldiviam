@@ -12,5 +12,5 @@ I have also worked in the following sectors:
 - Technology
 
 Currently looking for new opportunities in the Data field. 
-Thank you for tooking a time to look at my profile. 
+Thank you for taking a time to look at my profile. 
 Best regards.
